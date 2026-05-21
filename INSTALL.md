@@ -23,3 +23,12 @@ theme = dracula
 
 3. Reload Ghostty to apply the changes.
 4. Alternatively, copy the contents of `dracula` directly into `config`.
+
+#### Alucard variant
+
+Alucard is the complementary light theme. To use it, copy `alucard` into
+`~/.config/ghostty/themes/` and set:
+
+```
+theme = alucard
+```
